@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+}
+h1 {
+    color: grey;
+    text-align: center;
+    font: helvetica;
+    font-size: 60px;
+}
+.calculator {
+    width: 400px;
+    background-color: black;
+    color: white;
+}
+.screen {
+    color: white;
+    font-size: 40px;
+    font-family: "Courier New", Courier, monospace;
+    text-align: right;
+    padding: 20px 5px;
+}
+
+.flex-container-2 {
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    width: 100%;
+    align-items: stretch;
+    font-size: 45px;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+.flex-container-3 {
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    width: 100%;
+    align-items: stretch;
+    font-size: 45px;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ 
+
+
+.flex-container-4 {
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    width: 100%;
+    align-items: stretch;
+    font-size: 45px;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.flex-container-5 {
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    width: 100%; 
+    align-items: stretch;
+    font-size: 45px;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.flex-container-6 {
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    align-items: stretch;
+    width: 100%;
+    font-size: 45px;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box-threequarter {
+    border: 1px solid black;
+    width: 75%;
+    background-color: grey;
+    align-items: stretch;
+}
+
+.box-quarter {
+    border: 1px solid black;
+    width: 25%;
+    background-color: grey;
+    align-items: stretch;
+}
+.box-quarter-p {
+    border: 1px solid black;
+    width: 25%;
+    background-color: peru;
+    align-items: stretch;
+}
+.box-half {
+    border: 1px solid black;
+    width: 50%;
+    background-color: grey;
+    align-items: stretch;
+}
+
+button:hover {
+    background-color: aliceblue;
+}
